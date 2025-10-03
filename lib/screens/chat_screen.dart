@@ -6,6 +6,7 @@ import 'package:groub_chat/screens/profile_screen.dart';
 import 'package:groub_chat/widgets/message_text_field.dart';
 import 'package:groub_chat/widgets/puble_chat_widget.dart';
 
+// ignore: must_be_immutable
 class ChatScreen extends StatelessWidget {
   ChatScreen({super.key});
   static final String id = 'ChatScreen';

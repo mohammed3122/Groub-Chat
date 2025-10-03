@@ -9,6 +9,7 @@ import 'package:groub_chat/widgets/input_fields.dart';
 import 'package:groub_chat/widgets/logo_app_widget.dart';
 import 'package:groub_chat/widgets/title_widget.dart';
 
+// ignore: must_be_immutable
 class SignUpScreen extends StatelessWidget {
   SignUpScreen({super.key});
   static String id = 'SignUpSreen';
