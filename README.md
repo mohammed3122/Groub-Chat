@@ -10,8 +10,6 @@
 - ✅ **Flutter** – تطوير واجهات مستخدم مرنة وسلسة.  
 - ✅ **Firebase Authentication** – تسجيل الدخول وإنشاء حساب جديد.  
 - ✅ **Cloud Firestore** – تخزين وإدارة الرسائل في الوقت الفعلي.  
-- ✅ **State Management باستخدام Cubit / Provider** – إدارة الحالة بشكل منظم.  
-- ✅ **Responsive UI** – تصميم متجاوب مع مختلف أحجام الشاشات.  
 - ✅ **Upload Project to GitHub** – رفع المشروع على GitHub وتنظيمه.  
 
 ---
